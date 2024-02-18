@@ -6,7 +6,7 @@ Description
 
 Memory Game is a web-based game built with JavaScript, HTML, CSS, and React. It tests and enhances your memory skills by challenging you to match pairs of cards within a certain time limit. The game features attractive card designs and a user-friendly interface.
 
-Features 
+Features:
 
 1. Attractive card designs.
 
@@ -17,7 +17,7 @@ Features
 4. Game completion message with the final score.
 
 
-Usage
+Usage:
 
 1. Click on a card to reveal its hidden symbol.
 
@@ -34,7 +34,7 @@ Usage
 7. Try to complete the game in the fewest moves and shortest time possible.
 
 
-Technologies Used
+Technologies Used:
 
 JavaScript
 
