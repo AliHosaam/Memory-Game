@@ -12,9 +12,7 @@ Features:
 
 2. Score counter to keep track of the number of moves made.
 
-3. Responsive design for seamless gameplay on different devices.
-
-4. Game completion message with the final score.
+3. Game completion message with the final score.
 
 
 Usage:
